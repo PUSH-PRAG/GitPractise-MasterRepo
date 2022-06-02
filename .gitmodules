@@ -1,0 +1,3 @@
+[submodule "GitPractise-SubRepo"]
+	path = GitPractise-SubRepo
+	url = https://github.com/PUSH-PRAG/GitPractise-SubRepo.git
